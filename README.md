@@ -1,5 +1,9 @@
 # git-tips-tricks
-Repository for me to keep useful tips and tricks for git
+Repository for me to keep useful tips and tricks for git.
+
+Good tutorial from W3schools:
+
+https://www.w3schools.com/git/default.asp?remote=github
 
 ## Create a new branch and switch to it
 ```
